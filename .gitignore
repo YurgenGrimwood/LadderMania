@@ -1,0 +1,9 @@
+.idea/
+Assembly-CSharp.csproj
+LadderMania.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+obj/
